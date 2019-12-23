@@ -8,7 +8,7 @@ subtitle: 96년생 61wdth입니다
 
 **email
 
--chunpark37@gmail.com
+- chunpark37@gmail.com
 
 **stack
 
