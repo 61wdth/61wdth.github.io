@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 96년생 61wdth입니다
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+실명은 밝히기 싫어서...이름을 61wdth라고 합시다. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**stack
 
-What else do you need?
+- Python
+- Tensorflow
+- PyTorch
 
-### my history
+**history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- SNU IE 2014.03~2019.08(expected)
+- Allganize Korea 2019.01~
+
+
