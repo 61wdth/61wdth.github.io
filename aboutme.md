@@ -4,7 +4,11 @@ title: About me
 subtitle: 96년생 61wdth입니다
 ---
 
-실명은 밝히기 싫어서...이름을 61wdth라고 합시다. I have the following qualities:
+코린이입니다. 
+
+**email
+
+-chunpark37@gmail.com
 
 **stack
 
